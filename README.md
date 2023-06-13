@@ -16,5 +16,6 @@
 ===========================================
 - Menambahkan File Python Google Colab dan Stocks.csv
 - Untuk mengaskses gunakan file Stoks.csv
+
 ===========================================
 
